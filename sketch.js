@@ -155,7 +155,7 @@ function draw() {
   
   fill("white")
   textSize(25)
-  text("P R O J E C T   P E N D U L U M"                 ,420,42)
+  text("P R O J E C T   G E N Z"                 ,420,42)
   textSize(15)
   text("Mata Kuliah Visualisasi Dalam Sains (MA 2213)"   ,445,65)
   

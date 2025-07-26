@@ -175,14 +175,8 @@ function draw() {
   
   fill("black")
   textSize(15)
-  text("INFORMASI KELOMPOK 2 :"            ,22,555)
-  text("1. Yoga Andriyanto (121160008)"    ,22,580)
-  text("2. Tiara Juliana (121160107)"      ,22,605)
-  text("3. Cornelia Marsela (121160014)"   ,300,580)
-  text("4. Peniel Manoah J H (119160092)"  ,300,605)
-  text("5. Eni Perlove (121160088)"        ,590,580)
-  text("6. Dyah Ayu W (121160073)"         ,590,605)
-  text("7. Risma Dewi (121160051)"         ,850,580)
+  text("INFORMASI KELOMPOK 0 :"            ,22,555)
+  text("1. FadelSM (Fadel Shafwan Maliki)"    ,22,580)
   
   
   //Navigation Control
